@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+h1{
+    text-align: center;
+    margin-top:2rem;
+
+}
+body{
+    background-color: aqua;
+}
+
+.container{
+    
+    position: absolute;
+    top:8%;
+    width:80%;
+    left:10%;
+}
+
+.posts{
+    margin-top:2rem;
+    background-color:white;
+    padding:1.5rem 1.5rem;
+    border-radius: 1rem;
+}
+
+#post-id{
+    background-color: aqua;
+    color:white;
+    padding:1rem 1rem;
+    display: inline-block;
+    margin-top:0.5rem;
+}
+
+.title{
+    margin-top: 0.5rem;
+}
+
+.post-info{
+    margin-top:0.5rem;
+}
+
